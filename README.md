@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!-- [![ZhangJC's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangjichengcc&theme=vue&show_icons=true&count_private=true&hide=prs,contribs)](http://note.zhangjc.cn/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]() -->
 
-<div style='display: flex;'>
+<div style="display: flex;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=zhangjichengcc&show_icons=true&count_private=true&hide=prs,contribs" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
   </a>
 </div>
 
