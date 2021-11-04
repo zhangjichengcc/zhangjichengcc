@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 [![ZhangJC's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangjichengcc)](http://note.zhangjc.cn/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]() -->
 
 <div>
   <a href="https://github.com/zhangjichengcc/zhangjichengcc/edit/main/README.md">
