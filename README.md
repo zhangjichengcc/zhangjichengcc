@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 I’m Zhangjicheng
+- 📫 email：zhangjichengcc@163.com
+
 <!-- 
 [![ZhangJC's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangjichengcc)](http://note.zhangjc.cn/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]() -->
