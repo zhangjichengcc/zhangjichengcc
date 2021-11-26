@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="http://note.zhangjc.cn/">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko" />
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=cobalt" />
   </a>
   <a href="https://github.com/zhangjichengcc/zhangjichengcc/edit/main/README.md">
     <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=zhangjichengcc&show_icons=true&count_private=true&theme=merko" />
