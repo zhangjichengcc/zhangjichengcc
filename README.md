@@ -29,6 +29,6 @@ Here are some ideas to get you started:
     <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
   </a>
   <a href="https://github.com/zhangjichengcc/zhangjichengcc/edit/main/README.md">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=zhangjichengcc&show_icons=true&count_private=true&theme=synthwave" />
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=zhangjichengcc&show_icons=true&count_private=true&theme=dracula" />
   </a>
 </div>
