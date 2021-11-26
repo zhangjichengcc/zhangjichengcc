@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 <div>
   <a href="http://note.zhangjc.cn/">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
   </a>
   <a href="https://github.com/zhangjichengcc/zhangjichengcc/edit/main/README.md">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=zhangjichengcc&show_icons=true&count_private=true" />
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=zhangjichengcc&show_icons=true&count_private=true&theme=dark" />
   </a>
 </div>
