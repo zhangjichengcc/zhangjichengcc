@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=zhangjichengcc)
+
 - 😄 I’m Zhangjicheng
 - 📫 email：zhangjichengcc@163.com
-
-![](https://komarev.com/ghpvc/?username=zhangjichengcc)
 
 ---
 
