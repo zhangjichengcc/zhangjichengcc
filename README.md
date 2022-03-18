@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 I’m Zhangjicheng
 - 📫 email：zhangjichengcc@163.com
 
+![](https://komarev.com/ghpvc/?username=zhangjichengcc)
+
 ---
 
 <!-- 
